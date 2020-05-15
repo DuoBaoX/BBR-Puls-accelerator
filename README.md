@@ -1,4 +1,4 @@
-###建议安装原版BBR Plus 
+#建议安装原版BBR Plus 
 
 1、安装BBR加速，指向下面命令 #选择项目#2 
 # cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com/DuoBaoX/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
